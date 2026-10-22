@@ -1,0 +1,14 @@
+{
+    "users": {
+        "admin": {
+            "username": "admin",
+            "password_hash": "28ef8229e1048bfc07a027429fae6178:bc6ac52645a62fc21567582fbc4e6abb63b7d100f58e27168128f8ff4647c159",
+            "role": "admin",
+            "status": "approved"
+        }
+    },
+    "bots": {},
+    "settings": {
+        "auto_approve": false
+    }
+}
